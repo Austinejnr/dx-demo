@@ -1,0 +1,23 @@
+div{
+    /* background: blue; */
+    width: 250px;
+    padding: 25px;
+    display: inline-block;
+}
+.first{
+    background: aqua;
+}
+.third{
+    background: burlywood;
+}
+#parentdiv{
+    display: block;
+    /* background: black; */
+    width: 90%;
+    /* height: 200px; */
+    margin: 0 auto;
+    text-align: center;
+}
+#second{
+    background: cornflowerblue;
+}
